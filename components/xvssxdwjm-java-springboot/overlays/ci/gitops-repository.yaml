@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xvssxdwjm-java-springboot-gitops-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/xvssxdwjm-java-springboot-gitops
